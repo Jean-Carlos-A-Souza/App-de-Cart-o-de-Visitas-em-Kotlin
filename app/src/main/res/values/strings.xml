@@ -9,5 +9,6 @@
     <string name="label_cor">Cor</string>
     <string name="Label_confirmar">Confirmar</string>
     <string name="label_show_sucess">Cadastro Realizado com Sucesso</string>
+    <string name="label_share">Compartilhar</string>
 
 </resources>
